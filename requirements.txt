@@ -1,6 +1,6 @@
+fastapi
+uvicorn[standard]
 pandas
 numpy
 scikit-learn
 joblib
-fastapi    # optional if you later expose an API
-uvicorn    # optional
